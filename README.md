@@ -18,11 +18,17 @@
 ### Connect with me:
 
 [<img align="left" alt="Danish's Website'" width="22px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
+
 [<img align="left" alt="Danish | Instagram" width="22px" src="https://github.com/dan7sh/dan7sh.github.io/blob/main/Resources/Readme_icons/r.instagram.png?raw=true />][instagram]
+
 [<img align="left" alt="Danish | Linkedin" width="22px" src="https://github.com/dan7sh/dan7sh.github.io/blob/main/Resources/Readme_icons/r.linkedin.png?raw=true />][linkedin]
+
 [<img align="left" alt="Danish | Twitter" width="22px" src="https://github.com/dan7sh/dan7sh.github.io/blob/main/Resources/Readme_icons/r.twitter.png?raw=true />][twitter]
+
 [<img align="left" alt="Danish | Snapchat" width="22px" src="https://github.com/dan7sh/dan7sh.github.io/blob/main/Resources/Readme_icons/r.snapchat.png?raw=true />][snapchat]
+
 [<img align="left" alt="Danish | Facebook" width="22px" src="https://github.com/dan7sh/dan7sh.github.io/blob/main/Resources/Readme_icons/r.facebook.png?raw=true />][facebook]
+
 [<img align="left" alt="Danish | Discord" width="22px" src="https://github.com/dan7sh/dan7sh.github.io/blob/main/Resources/Readme_icons/r.discord.png?raw=true />][discord]
 
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <b>Danish Ansari</b>
 </h1>
-<h4 align="center">Student | Creative Enthusiast</h4>
+<h3 align="center">Student | Creative Enthusiast</h3>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/dan7sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/b70aea8e5cf00416ce889a03d98651940f7a8351/Resources/Readme_icons/r_linkedin.svg" alt="Danish's Linkedin" height="40" width="40" /></a>
@@ -41,6 +41,7 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 <br>
 
 <hr>
+<br>
 <h4>Technologies : </h4>
   
   <p>
@@ -55,16 +56,17 @@ Check out my <a href="https://danishansari.dev/">website</a>.
   <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/1f217dbd45dce39cd17fcb5de47ff498d3bc942b/Resources/Readme_icons/autocad.svg">
 
   </p>
+  <br>
   <hr>
+  <br>
  <h4>GitHub Stats :</h4>
 <p>
 <br> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan7sh&show_icons=true&theme=gotham&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<br>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs&show_icons=true&theme=gotham&locale=en" alt="akash-chowrasia" width="410" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs&show_icons=true&theme=gotham&locale=en" alt="akash-chowrasia" width="410" /></p>
+<br>
 
 -----
 

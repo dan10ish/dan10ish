@@ -53,6 +53,8 @@ Check out my <a href="https://danishansari.dev/">website</a>.
   <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/1f217dbd45dce39cd17fcb5de47ff498d3bc942b/Resources/Readme_icons/css.svg">
   <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/1f217dbd45dce39cd17fcb5de47ff498d3bc942b/Resources/Readme_icons/unity.svg">
   <img height="50" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/1f217dbd45dce39cd17fcb5de47ff498d3bc942b/Resources/Readme_icons/blender.svg">
+  <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/b303ce22903ca7637fbbe6ae083320437d975be5/Resources/Readme_icons/adobe-photoshop.svg">
+  <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/b303ce22903ca7637fbbe6ae083320437d975be5/Resources/Readme_icons/figma.svg">
   <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/1f217dbd45dce39cd17fcb5de47ff498d3bc942b/Resources/Readme_icons/autocad.svg">
 
   </p>

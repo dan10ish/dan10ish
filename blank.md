@@ -34,16 +34,12 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 <br>
 
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
+&gt; Currently learning ***Flutter*** & ***Machine Learning***<br>
+&gt; Looking to collaborate with anyone with ***similar interests***<br>
+&gt; Ready to collaborate with any **Open - Source contribution**<br>
+&gt; Creating my own ***VS Code Theme***, which will be available in VS Code extensions **soon**<br>
+<br>
+
 <hr>
 <h4>Technologies : </h4>
   
@@ -63,12 +59,12 @@ Check out my <a href="https://danishansari.dev/">website</a>.
  <h4>GitHub Stats :</h4>
 <p>
 <br> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan7sh&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan7sh&show_icons=true&theme=gotham&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs&show_icons=true&theme=gotham&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 -----
 

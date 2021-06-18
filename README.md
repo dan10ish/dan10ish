@@ -64,10 +64,7 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 <br> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan7sh&show_icons=true&theme=gotham&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<br>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs&show_icons=true&theme=gotham&locale=en" alt="akash-chowrasia" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs&show_icons=true&theme=gotham&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 <br>
 

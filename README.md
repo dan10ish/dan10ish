@@ -41,6 +41,7 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 <br>
 
 <hr>
+<br>
 <h4>Technologies : </h4>
   
   <p>
@@ -55,7 +56,9 @@ Check out my <a href="https://danishansari.dev/">website</a>.
   <img height="45" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/1f217dbd45dce39cd17fcb5de47ff498d3bc942b/Resources/Readme_icons/autocad.svg">
 
   </p>
+  <br>
   <hr>
+  <br>
  <h4>GitHub Stats :</h4>
 <p>
 <br> 
@@ -65,6 +68,8 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs&show_icons=true&theme=gotham&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<br>
 
 -----
 

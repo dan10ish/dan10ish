@@ -37,7 +37,7 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 &gt; Currently learning ***Flutter*** & ***Machine Learning***<br>
 &gt; Looking to collaborate with anyone with ***similar interests***<br>
 &gt; Ready to collaborate with any **Open - Source contribution**<br>
-&gt; Creating my own ***VS Code Theme***, which will be available in VS Code extensions **soon**<br>
+&gt; Created my own ***VS Code Dark Theme***, which you can download [here](https://marketplace.visualstudio.com/items?itemName=danish.mariana-theme).
 <br>
 
 <hr>

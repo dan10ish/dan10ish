@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://tenor.com/view/hi-gif-23520343" width="35px">, I'm <b>Danish Ansari</b>
+<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px">, I'm <b>Danish Ansari</b>
 </h1>
 <h3 align="center">Student | Creative Enthusiast</h3>
 <br>
@@ -32,10 +32,11 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 
 <br>
 
-&gt; Currently creating a **_game_** with real **_airplane physics_**<br>
-&gt; Looking to collaborate with anyone with **_similar interests_**<br>
+
+&gt; Currently creating a ***game*** with real ***airplane physics***<br>
+&gt; Looking to collaborate with anyone with ***similar interests***<br>
 &gt; Ready to collaborate with any **Open - Source contribution**<br>
-&gt; Created my own **_VS Code Dark Theme_**, which you can download [here](https://marketplace.visualstudio.com/items?itemName=danish.mariana-theme).
+&gt; Created my own ***VS Code Dark Theme***, which you can download [here](https://marketplace.visualstudio.com/items?itemName=danish.mariana-theme).
 
 <br>
 
@@ -69,4 +70,5 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 
 <br>
 
----
+-----
+

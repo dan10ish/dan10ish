@@ -12,7 +12,7 @@
 </p>
 <br>
 <p align="center">
-Check out my <a href="https://danishansari.dev/">website</a>.
+Check out my <a href="https://danish.dev/">website</a>.
 </p>
 <hr>
 <p align="center">

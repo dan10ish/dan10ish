@@ -63,9 +63,9 @@ Check out my <a href="https://danish.dev/">website</a>.
  <h4>GitHub Stats :</h4>
 <p>
 <br> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan7sh&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dan7sh&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
 
 <br>
 

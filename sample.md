@@ -3,8 +3,8 @@
 <h3 align="center">Student | Creative Enthusiast</h3>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="Resources/Readme_icons/r_linkedin.SVG" alt="Danish's Linkedin" height="40" width="40" /></a>
-<a href="https://www.instagram.com/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="Resources/Readme_icons/r_instagram.SVG" alt="Danish's Instagram" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img src="./Resources/Readme_icons/r_linkedin.SVG" alt="Danish's Linkedin" height="40" width="40" align="center"/></a>
+<a href="https://www.instagram.com/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_instagram.SVG" alt="Danish's Instagram" height="30" width="40"/></a>
 <a href="https://twitter.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_twitter.SVG" alt="Danish's Twitter" height="30" width="40"/></a>
 <a href="https://www.snapchat.com/add/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_snapchat.SVG" alt="Danish's Snapchat" height="30" width="40"/></a>
 <a href="mailto: aaansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_gmail.SVG" alt="Danish's Email" height="36" width="40"/></a>
@@ -43,7 +43,7 @@ Check out my <a href="https://danish.dev/">website</a>.
 <br>
 <h4>Technologies : </h4>
   
-  <p>
+  <p align="center">
   <img height="50" width="50px" src="./Resources/Readme_icons/react.SVG">
   <img height="45" width="45px" src="./Resources/Readme_icons/python.SVG">
   <img height="50" width="50px" src="./Resources/Readme_icons/c.SVG">

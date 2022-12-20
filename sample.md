@@ -3,7 +3,7 @@
 <h3 align="center">Student | Creative Enthusiast</h3>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_linkedin.svg" alt="Danish's Linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="Danish's Linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_instagram.svg" alt="Danish's Instagram" height="30" width="40"/></a>
 <a href="https://twitter.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_twitter.svg" alt="Danish's Twitter" height="30" width="40"/></a>
 <a href="https://www.snapchat.com/add/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_snapchat.svg" alt="Danish's Snapchat" height="30" width="40"/></a>
@@ -17,7 +17,7 @@ Check out my <a href="https://danish.dev/">website</a>.
 <hr>
 <p align="center">
 <p align="center">
-    I am currently a <b>3rd year</b> undergraduate from <a href="http://engineering.nmims.edu/" target="_blank" rel="noopener noreferrer"> <b>Mukesh Patel School Of Technology Management & Engineering (NMIMS)</b></a>, Mumbai, pursuing <b>Mechatronics Engineering</b>.
+    I am currently a <b>3rd year</b> undergraduate student from <a href="http://engineering.nmims.edu/" target="_blank" rel="noopener noreferrer"> <b>Mukesh Patel School Of Technology Management & Engineering (NMIMS)</b></a>, Mumbai, pursuing <b>Mechatronics Engineering</b>.
      
   <br>
   <br>
@@ -32,7 +32,7 @@ Check out my <a href="https://danish.dev/">website</a>.
 
 <br>
 
-&gt; Currently creating a **_game_** with real **_airplane physics_**<br>
+&gt; Currently developing a **_game_** with real **_airplane physics_**<br>
 &gt; Looking to collaborate with anyone with **_similar interests_**<br>
 &gt; Ready to collaborate with any **Open - Source contribution**<br>
 &gt; Created my own **_VS Code Dark Theme_**, which you can download [here](https://marketplace.visualstudio.com/items?itemName=danish.mariana-theme).

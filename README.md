@@ -44,8 +44,8 @@ Check out my <a href="https://danish.dev/">website</a>.
 <h4>Technologies : </h4>
   
   <p>
-  <img height="50" width="50px" src="./Resources/Readme_icons/react.svg">
   <img height="45" width="45px" src="./Resources/Readme_icons/python.svg">
+  <img height="50" width="50px" src="./Resources/Readme_icons/react.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/c.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/cpp.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/c-sharp.svg">
@@ -53,6 +53,7 @@ Check out my <a href="https://danish.dev/">website</a>.
   <img height="45" width="45px" src="./Resources/Readme_icons/css.svg">
   <img height="45" width="45px" src="./Resources/Readme_icons/unity.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/blender.svg">
+  <img height="45" width="45px" src="./Resources/Readme_icons/fusion.svg">
   <img height="45" width="45px" src="./Resources/Readme_icons/adobe-photoshop.svg">
   <img height="45" width="45px" src="./Resources/Readme_icons/figma.svg">
   <img height="45" width="45px" src="./Resources/Readme_icons/autocad.svg">
@@ -64,9 +65,9 @@ Check out my <a href="https://danish.dev/">website</a>.
  <h4>GitHub Stats :</h4>
 <p>
 <br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
+<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
+<p><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
 
 <br>
 

@@ -65,9 +65,9 @@ Check out my <a href="https://danish.dev/">website</a>.
  <h4>GitHub Stats :</h4>
 <p>
 <br> 
-<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
+<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=codeSTACKr&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
 
-<p><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
+<p><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=codeSTACKr&locale=en" alt="Danish's Github Stats" width="410" /></p>
 
 <br>
 

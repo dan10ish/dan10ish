@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="40" width="40">, I'm <b>Danish</b>
+<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35" width="35">, I'm <b>Danish</b>
 </h1>
 <h3 align="center">Student | Creative Enthusiast</h3>
 <br>

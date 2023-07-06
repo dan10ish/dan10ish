@@ -1,51 +1,51 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35" width="35">, I'm <b>Danish</b>
-</h1>
-<h3 align="center">Student | Creative Enthusiast</h3>
+<h2 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35" width="35">, I am 
+</h2>
+<br>
+<pre align="center">
+█▀▄ ▄▀█ █▄░█ █ █▀ █░█
+█▄▀ █▀█ █░▀█ █ ▄█ █▀█
+</pre>
+<br>
+<h3 align="center">
+<code> Student | Creative Enthusiast </code>
+</h3>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_linkedin.svg" alt="Danish's Linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_instagram.svg" alt="Danish's Instagram" height="30" width="40"/></a>
 <a href="https://twitter.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_twitter.svg" alt="Danish's Twitter" height="30" width="40"/></a>
-<a href="https://www.snapchat.com/add/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_snapchat.svg" alt="Danish's Snapchat" height="30" width="40"/></a>
-<a href="mailto: aaansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_gmail.svg" alt="Danish's Email" height="36" width="40"/></a>
+<a href="dan10ish.read.cv" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/ReadCV.svg" alt="Danish's Snapchat" height="33" width="40"/></a>
 </p>
+</p>
+<br>
+<p align="center">
+<b>📍 Mumbai, India</b>
 </p>
 <br>
 <p align="center">
 Check out my <a href="https://danish.dev/">website</a>.
 </p>
+<br>
+
 <hr>
+<br>
+
 <p align="center">
 <p align="center">
-    I am currently a <b>3rd year</b> undergraduate from <a href="http://engineering.nmims.edu/" target="_blank" rel="noopener noreferrer"> <b>Mukesh Patel School Of Technology Management & Engineering (NMIMS)</b></a>, Mumbai, pursuing <b>Mechatronics Engineering</b>.
+    I am currently a <b>4th year</b> undergraduate pursuing <b>Mechatronics Engineering</b>.
      
   <br>
-  <br>
-    I'm interested in <b>
-    Front-End Web Development,
-     UI Design,
-     Game Dev,
-     Machine Learning,
-     and solving real world problems
-     using programming. </b>
+I'm interested in <code>Deep learning</code>, <code>Front-End</code>, <code>Game Dev</code> and solving real world problems using programming. 
 </p>
-
 <br>
-
-&gt; Currently creating a **_game_** with real **_airplane physics_**<br>
-&gt; Looking to collaborate with anyone with **_similar interests_**<br>
-&gt; Ready to collaborate with any **Open - Source contribution**<br>
-&gt; Created my own **_VS Code Dark Theme_**, which you can download [here](https://marketplace.visualstudio.com/items?itemName=danish.mariana-theme).
-
-<br>
-
 <hr>
 <br>
 <h4>Technologies : </h4>
-  
-  <p>
+<br>
+  <p align="center">
   <img height="45" width="45px" src="./Resources/Readme_icons/python.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/react.svg">
+  <img height="50" width="45px" src="./Resources/Readme_icons/Tensorflow.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/c.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/cpp.svg">
   <img height="50" width="50px" src="./Resources/Readme_icons/c-sharp.svg">

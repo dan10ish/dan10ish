@@ -2,12 +2,14 @@
 </h2>
 <br>
 <pre align="center">
+<font size="4">
 █▀▄ ▄▀█ █▄░█ █ █▀ █░█
 █▄▀ █▀█ █░▀█ █ ▄█ █▀█
+</font>
 </pre>
 <br>
 <h3 align="center">
-<code> Student | Creative Enthusiast </code>
+Student | Creative Enthusiast
 </h3>
 <br>
 <p align="center">

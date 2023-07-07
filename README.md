@@ -1,9 +1,8 @@
-<h2 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35" width="35">, I am 
-</h2>
+<h3 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35" width="35">, I am 
+</h3>
 <br>
 <pre align="center">
-
-<font size="4">
+<font size="5">
 █▀▄ ▄▀█ █▄░█ █ █▀ █░█
 █▄▀ █▀█ █░▀█ █ ▄█ █▀█
 </font>
@@ -66,11 +65,11 @@ I'm interested in <code>Deep learning</code>, <code>Front-End</code>, <code>Game
   <hr>
   <br>
  <h4>GitHub Stats :</h4>
-<p>
+<p align="center">
 <br> 
-<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=codeSTACKr&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
-
-<p><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=codeSTACKr&locale=en" alt="Danish's Github Stats" width="410" /></p>
+<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
+<br>
+<p align="center"><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
 
 <br>
 

@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_linkedin.svg" alt="Danish's Linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_instagram.svg" alt="Danish's Instagram" height="30" width="40"/></a>
 <a href="https://twitter.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_twitter.svg" alt="Danish's Twitter" height="30" width="40"/></a>
-<a href="dan10ish.read.cv" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/ReadCV.svg" alt="Danish's Snapchat" height="33" width="40"/></a>
+<a href="https://dan10ish.read.cv/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/ReadCV.svg" alt="Danish's Snapchat" height="33" width="40"/></a>
 </p>
 </p>
 <br>

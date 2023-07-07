@@ -3,14 +3,15 @@
 <br>
 <pre align="center">
 <font size="4">
+
 █▀▄ ▄▀█ █▄░█ █ █▀ █░█
 █▄▀ █▀█ █░▀█ █ ▄█ █▀█
 </font>
 </pre>
 <br>
-<h3 align="center">
-Student | Creative Enthusiast
-</h3>
+<p align="center">
+<b>Student | Creative Enthusiast</b>
+</p>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_linkedin.svg" alt="Danish's Linkedin" height="40" width="40" /></a>

@@ -25,7 +25,7 @@
 </p>
 <br>
 <p align="center">
-Check out my <a href="https://danish.dev/">website</a>.
+Check out my <a href="https://danishansari.in/">website</a>.
 </p>
 <br>
 

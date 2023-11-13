@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_linkedin.svg" alt="Danish's Linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/dan10ish/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_instagram.svg" alt="Danish's Instagram" height="30" width="40"/></a>
-<a href="https://twitter.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/r_twitter.svg" alt="Danish's Twitter" height="30" width="40"/></a>
+<a href="https://twitter.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/x.svg" alt="Danish's Twitter" height="25" width="25"/></a>
 <a href="https://dan10ish.read.cv/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Resources/Readme_icons/ReadCV.svg" alt="Danish's Snapchat" height="33" width="40"/></a>
 </p>
 </p>
@@ -67,9 +67,9 @@ I'm interested in <code>Deep learning</code>, <code>Front-End</code>, <code>Game
  <h4>GitHub Stats :</h4>
 <p align="center">
 <br> 
-<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Danish's Language Distribution" /></p>
+<img src="https://github-readme-stats-five-flame-83.vercel.app/api/top-langs?username=dan10ish&show_icons=true&theme=solarized-light&locale=en&layout=compact" alt="Danish's Language Distribution" width="380" /></p>
 <br>
-<p align="center"><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=gotham&locale=en" alt="Danish's Github Stats" width="410" /></p>
+<p align="center"><img src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&theme=solarized-light&locale=en" alt="Danish's Github Stats" width="380" /></p>
 
 <br>
 

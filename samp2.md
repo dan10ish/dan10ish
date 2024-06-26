@@ -38,7 +38,9 @@ Check out my <a href="https://danish.bio/">website</a>.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&show_icons=true&locale=en&layout=compact" alt="dan10ish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-five-flame-83.vercel.app/api?username=dan10ish&hide=prs,issues&show_icons=true&locale=en" alt="dan10ish" /></p>
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan10ish&show_icons=true&locale=en" alt="dan10ish" /></p>
 
 <br>
 

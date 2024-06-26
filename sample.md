@@ -25,7 +25,7 @@
 </p>
 <br>
 <p align="center">
-Check out my <a href="https://danishansari.in/">website</a>.
+Check out my <a href="https://danish.bio/">website</a>.
 </p>
 <br>
 
@@ -74,3 +74,5 @@ I'm interested in <code>Deep learning</code>, <code>Front-End</code>, <code>Game
 <br>
 
 ---
+
+<img src="https://visitcount.itsvg.in/api?id=dan10ish&label=Profile%20Views&icon=5&pretty=false" />

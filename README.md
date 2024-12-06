@@ -1,10 +1,8 @@
 <pre align="center">
 <font size="5">
-
 █▀▄ ▄▀█ █▄░█ █ █▀ █░█
 █▄▀ █▀█ █░▀█ █ ▄█ █▀█
-</font>
-</pre>
+</font></pre>
 
 <div align="center"><b>Mechatronics</b> Engineer based in Mumbai, IN</div>
 

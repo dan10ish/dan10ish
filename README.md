@@ -54,4 +54,6 @@ Knowledge and area of interest combine :
 
 ![](https://komarev.com/ghpvc/?username=dan10ish&label=VIEWS&base=311&abbreviated=true&style=for-the-badge&color=brightgreen)
 
+<!-- base=311 from https://visitcount.itsvg.in which stopped working -->
+
 </div>

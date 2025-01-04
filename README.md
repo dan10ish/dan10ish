@@ -51,5 +51,9 @@ Knowledge and area of interest combine :
 
 <br>
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=dan10ish&label=Profile%20Views&icon=0&pretty=true" />
+
+![](https://komarev.com/ghpvc/?username=dan10ish&label=VIEWS&base=311&abbreviated=true&style=for-the-badge&color=brightgreen)
+
+<!-- base=311 from https://visitcount.itsvg.in which stopped working -->
+
 </div>

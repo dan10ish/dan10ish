@@ -3,7 +3,6 @@
 - Mechatronics Engineer
 - Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or
   <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a>
-
 - Check out my <a href="https://danish.bio/">website</a>.
 
 <br>
@@ -21,7 +20,5 @@
 ---
 
 <br>
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
-</div>
 <br>

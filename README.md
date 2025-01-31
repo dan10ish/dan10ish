@@ -1,5 +1,3 @@
-<h2>Danish Ansari</h2>
-
 <br>
 
 - Mechatronics Engineer

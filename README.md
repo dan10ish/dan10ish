@@ -1,4 +1,4 @@
-<h1 align="center">𝐃𝐚𝐧𝐢𝐬𝐡</h1>
+<h2>Danish Ansari</h2>
 
 <br>
 
@@ -23,9 +23,7 @@
 ---
 
 <br>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" style="max-width: 100%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=dan10ish&rank_icon=github&theme=transparent&hide=contribs,issues" alt="dan10ish" style="max-width: 100%;"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
 </div>
 <br>

@@ -1,23 +1,40 @@
 <div align="center">
 
 <div>
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none; vertical-align: top; text-align: left; width: 50%;">
-        <br>
-        <p>• Mechatronics Engineer</p>
-        <p>• Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or
-          <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a></p>
-        <p>• Check out my <a href="https://danish.bio/">website</a>.</p>
-        <br>
+  <table style="border: 0; border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+    <tr style="border: 0;">
+      <td style="border: 0; border-collapse: collapse; border-spacing: 0; vertical-align: top; text-align: left; width: 50%; padding: 0; margin: 0;">
+        <div style="border: 0;">
+          <br>
+          <p>• Mechatronics Engineer</p>
+          <p>• Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or
+            <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a></p>
+          <p>• Check out my <a href="https://danish.bio/">website</a>.</p>
+          <br>
+        </div>
       </td>
-      <td style="border: none; vertical-align: top; text-align: right; width: 50%;">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
-        <br>
+      <td style="border: 0; border-collapse: collapse; border-spacing: 0; vertical-align: top; text-align: right; width: 50%; padding: 0; margin: 0;">
+        <div style="border: 0;">
+          <br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
+          <br>
+        </div>
       </td>
     </tr>
   </table>
+  
+  <style>
+    @media (max-width: 600px) {
+      table { display: block !important; }
+      tr { display: block !important; }
+      td { 
+        display: block !important; 
+        width: 100% !important; 
+        text-align: left !important; 
+        border: 0 !important;
+      }
+    }
+  </style>
 </div>
 
 </div>

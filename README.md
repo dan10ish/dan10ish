@@ -1,43 +1,11 @@
-<div align="center">
+<br>
 
-<div>
-  <table style="border: 0; border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
-    <tr style="border: 0;">
-      <td style="border: 0; border-collapse: collapse; border-spacing: 0; vertical-align: top; text-align: left; width: 50%; padding: 0; margin: 0;">
-        <div style="border: 0;">
-          <br>
-          <p>• Mechatronics Engineer</p>
-          <p>• Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or
-            <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a></p>
-          <p>• Check out my <a href="https://danish.bio/">website</a>.</p>
-          <br>
-        </div>
-      </td>
-      <td style="border: 0; border-collapse: collapse; border-spacing: 0; vertical-align: top; text-align: right; width: 50%; padding: 0; margin: 0;">
-        <div style="border: 0;">
-          <br>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
-          <br>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-  <style>
-    @media (max-width: 600px) {
-      table { display: block !important; }
-      tr { display: block !important; }
-      td { 
-        display: block !important; 
-        width: 100% !important; 
-        text-align: left !important; 
-        border: 0 !important;
-      }
-    }
-  </style>
-</div>
+- Mechatronics Engineer
+- Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or
+  <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a>
+- Check out my <a href="https://danish.bio/">website</a>.
 
-</div>
+<br>
 
 ---
 
@@ -49,3 +17,9 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" /> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 
 </div>
+
+---
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
+<br>

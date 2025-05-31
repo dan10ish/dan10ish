@@ -1,8 +1,24 @@
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <div align="left"><br>- Mechatronics Engineer<br>- Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a><br>- Check out my <a href="https://danish.bio/">website</a>.<br><br></div> | <div align="right"><br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" /><br><br></div> |
+<div>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; vertical-align: top; text-align: left; width: 50%;">
+        <br>
+        <p>• Mechatronics Engineer</p>
+        <p>• Connect via <a href="https://x.com/dan10ish" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Danish's Twitter"/></a> or
+          <a href="mailto:aansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Email-f14336?style=for-the-badge&logo=gmail&logoColor=white" alt="Danish's Gmail" /></a></p>
+        <p>• Check out my <a href="https://danish.bio/">website</a>.</p>
+        <br>
+      </td>
+      <td style="border: none; vertical-align: top; text-align: right; width: 50%;">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dan10ish&theme=transparent&show_icons=true&locale=en&layout=compact" alt="dan10ish" />
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
